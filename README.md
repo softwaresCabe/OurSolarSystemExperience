@@ -23,3 +23,6 @@ A simple space Experience Where Users Observe And Learn About The Planets In Our
 
 Safety
 This Application Is Intended To Be Played In A Safe Environment And User Should Be Seated When Playing.
+
+Play Store Link:
+https://play.google.com/store/apps/details?id=com.CabeSoftwares.OurSolarExperience
